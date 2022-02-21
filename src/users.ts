@@ -1,7 +1,7 @@
 import Realm from 'realm';
 
 const appConfig = {
-    id: 'cowgenic-llahf',
+    id: '<Insert_App_Id>',
 };
 
 const app = new Realm.App(appConfig);
