@@ -3,5 +3,6 @@ export const TaskSchema = {
     properties: {
         _id: "objectId",
         todo: "string",
-    }
+    },
+    primaryKey: "_id"
 }
